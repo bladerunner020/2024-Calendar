@@ -80,7 +80,7 @@
         break;
       default:
         // This case should not be reached with the validation loop above
-        printf("\nThere are only 12 months, you, idiot!!!");
+        printf("\nThere are only 12 months!!!");
         break;
     }
   }
